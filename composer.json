@@ -1,0 +1,19 @@
+{
+  "name": "maxserv/distributionmanagement",
+  "type": "typo3-cms-extension",
+  "description": "Manage TYPO3 CMS distributions from the cli using an extbase command controller",
+  "homepage": "https://github.com/MaxServ/t3ext-distributionmanagement",
+  "license": ["GPL-2.0+"],
+  "keywords": [
+    "TYPO3 CMS",
+    "distribution management",
+    "cli"
+  ],
+  "support": {
+    "issues": "https://github.com/MaxServ/t3ext-distributionmanagement/issues"
+  },
+  "version": "1.0.0",
+  "require": {
+    "typo3/cms-core": ">=6.2.6,<8.0"
+  }
+}
