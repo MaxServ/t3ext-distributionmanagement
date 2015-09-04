@@ -33,5 +33,6 @@ Available commands:
 ```bash
 EXTENSION "DISTRIBUTIONMANAGEMENT":
 -------------------------------------------------------------------------------
-  distribution:list                        List backend users
+  distribution:list                        List distributions
+  distribution:install                     Install distribution
 ```
