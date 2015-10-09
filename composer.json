@@ -1,11 +1,17 @@
 {
   "name": "maxserv/distributionmanagement",
   "type": "typo3-cms-extension",
+  "authors": [
+    {
+      "name": "Michiel Roos",
+      "email": "michiel@maxserv.com",
+      "role": "Developer",
+      "homepage": "https://www.maxserv.com"
+    }
+  ],
   "description": "Manage TYPO3 CMS distributions from the cli using an extbase command controller",
   "homepage": "https://github.com/MaxServ/t3ext-distributionmanagement",
-  "license": [
-    "GPL-2.0+"
-  ],
+  "license": "GPL-2.0+",
   "keywords": [
     "TYPO3 CMS",
     "distribution management",
